@@ -1,0 +1,1 @@
+Construção de dashboard StarWars com requisição de API externa.
